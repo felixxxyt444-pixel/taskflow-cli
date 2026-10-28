@@ -1,0 +1,10 @@
+TASK-1	[US-1] Добавление задачи: функция add()	Must,2sp
+TASK-2	[US-2] Просмотр списка задач: list()	Must,1sp
+TASK-3	[US-3] Отметка задачи выполненной: mark_done()	Must,2sp
+TASK-4	[US-4] Удаление задачи: delete()	Must,2sp
+TASK-5	[US-5] Сохранение/загрузка JSON: save() и load()	Must,3sp
+TASK-6	[US-6] Приоритет задачи (low/medium/high)	Should,2sp
+TASK-7	[US-8] Фильтр по статусу (todo/done)	Should,3sp
+TASK-8	[US-7] Срок выполнения (deadline)	Should,3sp (вне спринта)
+TASK-9	[US-9] Поиск по ключевому слову	Could,3sp (вне спринта)
+TASK-10	[US-10] Экспорт в CSV	Could,5sp (вне спринта)
